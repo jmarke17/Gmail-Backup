@@ -1,10 +1,8 @@
-# Import the necessary modules
 import imaplib
-import getpass
 
 # Set the IMAP server and login credentials
 imap_server = "imap.gmail.com"
-username = "your-username"
+username = "your-email"
 password = "password-to-interact-with-2FA"
 
 # Connect to the IMAP server and login
